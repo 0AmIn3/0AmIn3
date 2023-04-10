@@ -2,7 +2,7 @@
 <h3 align="center">I am Passionate Front-End Developer</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0amin3&theme=nord&column=5&margin-w=15&margin-h=15&rank=-?" alt="0amin3" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=0amin3&theme=nord&column=5&margin-w=15&margin-h=15&rank=-?" alt="0amin3" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0amin3&label=Profile%20views&color=50546C&style=flat" alt="0amin3" /> </p>
 
 - 🎓 I’m currently learning **React**
