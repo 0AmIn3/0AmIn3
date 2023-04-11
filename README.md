@@ -21,7 +21,9 @@
 </p>
 
 <div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0amin3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=50546C&fire=50546C&currStreakLabel=50546C" alt="Amin" /></div>
-  
+  <div align="center">
+    <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=0amin3&theme=react&text_color=50546C&bg_color=0D1117&title_color=50546C&line=50546C&border_color=9199BE&hide_border=true&color=50546C">
+</div>
 <div align="center">  
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=0amin3&show_icons=true&count_private=true&hide_border=true&title_color=50546C&icon_color=50546C&text_color=c9d1d9&bg_color=0d1116" alt="Shoira github stats" /> 
 </div>
@@ -30,9 +32,13 @@
   <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0amin3&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=0d1116" />
 </div>
 </div>
-<!-- <div align="center">
-    <img src="http://gionkunz.github.com/chartist-js/ct" alt="build with love" />
-</div> -->
+
+
+
+
+
+
+
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=50546C&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+AMIN" alt="build with love" />
 </div>
