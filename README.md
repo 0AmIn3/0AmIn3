@@ -29,7 +29,7 @@
 </div>
 <div align="center">  
 
-  <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0amin3&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=0d1116" />
+  <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0amin3&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=1e1e1e00" />
 </div>
 </div>
 
