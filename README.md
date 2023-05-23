@@ -5,9 +5,9 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rtzeg&theme=nord&column=6&margin-w=15&margin-h=15&rank=-?" alt="0amin3" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0amin3&label=Profile%20views&color=50546C&style=flat" alt="0amin3" /> </p>
 
-- 🎓 I’m currently learning **React**
+- 🎓 I’m currently learning **NextJS**
 
-- 💬 Ask me about **React, CSS3, HTML5, Javascript**
+- 💬 Ask me about **React, NextJS CSS3, HTML5, Javascript**
 
 - 📫 How to reach me **Telegram: https://t.me/cntz_001**
 
@@ -20,7 +20,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0amin3&theme=black-ice&hide_border=true&stroke=0000&background=0D111730&ring=50546C&fire=50546C&currStreakLabel=50546C" alt="Amin" /></div>
+<!-- <div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0amin3&theme=black-ice&hide_border=true&stroke=0000&background=0D111730&ring=50546C&fire=50546C&currStreakLabel=50546C" alt="Amin" /></div>
   <div align="center">
     <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=0amin3&theme=react&text_color=50546C&bg_color=1e1e1e00&title_color=50546C&line=50546C&border_color=9199BE&hide_border=true&color=50546C">
 </div>
@@ -32,7 +32,7 @@
   <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0amin3&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=1e1e1e00" />
 </div>
 </div>
-
+ -->
 
 
 
