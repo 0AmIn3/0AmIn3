@@ -32,8 +32,12 @@
   <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0amin3&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=1e1e1e00" />
 </div> -->
 </div>
-
-
+<div align="center">  
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=0amin3&show_icons=true&count_private=true&hide_border=true&title_color=50546C&icon_color=50546C&text_color=c9d1d9&bg_color=1e1e1e00" alt="Shoira github stats" /> 
+</div>
+<div align="center">  
+  <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0amin3&layout=compact&hide_border=true&title_color=50546C&text_color=50546C&bg_color=1e1e1e00" />
+</div>
 
 
 
