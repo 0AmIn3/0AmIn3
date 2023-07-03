@@ -16,14 +16,20 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/> </a>
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="Redux" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" alt="Sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="Sass" width="40" height="40"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="NextJS" width="40" height="40"/> </a>
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="Redux" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/> </a>
+
+
+
+
+
 
 
 </p>
